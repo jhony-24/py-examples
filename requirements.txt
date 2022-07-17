@@ -1,0 +1,7 @@
+gtts
+pyttsx3
+termcolor
+prettytable
+pillow
+numpy
+progress
